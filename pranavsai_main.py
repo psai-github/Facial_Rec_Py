@@ -1,3 +1,5 @@
+#Pranav Sai
+
 import tensorflow as tf
 from tensorflow import keras
 import numpy as np
@@ -44,7 +46,7 @@ while True:
 		if k==ord('q'):
 			cap.release()
 			cv2.destroyAllWindows()
-			alexa(str(get_className(classIndex)))
+
 
 
 
