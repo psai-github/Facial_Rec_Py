@@ -1,3 +1,3 @@
 # Facial Recognition AI in Python
 
-Youtube Video: https://youtu.be/Tp9_RwTiITw
+Youtube Video: https://www.youtube.com/watch?v=7n-_U_dSnqA
